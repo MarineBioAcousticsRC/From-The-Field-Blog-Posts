@@ -1,0 +1,1 @@
+Welcome to the field work blog repository! This repository serves as an accessible central location for updates from our marine research deployments and field operations—including HARP instrument deployments and oceanographic surveys.
